@@ -43,9 +43,7 @@ An interactive dashboard was created in Power BI to provide deeper insights and 
 - Batting vs Bowling Strategy
 - Team-wise Performance Comparison
 
-📸 Dashboard Preview:
-![Dashboard Page 1](IPL 23 Dashboard/Page 1.png)  
-![Dashboard Page 2](IPL 23 Dashboard/Page 2.png)
+
 💡 Key Insights
 
 - Away teams won slightly more matches than home teams.
